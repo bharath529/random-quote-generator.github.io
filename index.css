@@ -15,6 +15,7 @@ h1 {
   text-align: center;
   font-family: 'Yellowtail', cursive;
   font-size: 25px;
+   color: white;
   background: linear-gradient(45deg,    #f00 ,#0ff );
   box-shadow: 4px 4px 4px 2px    rgba(0,0,0,0.2);
 }
